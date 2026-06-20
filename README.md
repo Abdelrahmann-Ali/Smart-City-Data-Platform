@@ -357,6 +357,8 @@ Smart-City-Data-Platform/
 
 ## Power BI Dashboard
 
+<img width="1273" height="713" alt="Power_BI_Dashboard2" src="https://github.com/user-attachments/assets/f23ecf4f-b9c9-498a-902b-d0be62e4202c" />
+<img width="1275" height="712" alt="Power_BI_Dashboard" src="https://github.com/user-attachments/assets/6a156258-8abe-436f-9006-bfc3c7231c46" />
 
 
 ## Grafana Monitoring
